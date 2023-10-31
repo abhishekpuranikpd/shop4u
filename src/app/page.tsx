@@ -28,7 +28,7 @@ export default async function Home() {
               href={"/products/" + products[0].id}
               className="btn btn-primary"
             >
-              Check ot Out
+              Check It Out
             </Link>
           </div>
         </div>
